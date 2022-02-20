@@ -1,7 +1,7 @@
 Notebooks and code samples to help you use the PyLabel Python package and the PyLabeler Jupyter-based labeling tool. 
 
 ## Annotation Format Conversion
-User PyLabel to translate bounding box annotations between different formats-for example, from coco to yolo.
+Use PyLabel to translate bounding box annotations between different formats-for example, from coco to yolo.
 - [coco2voc.ipynb](https://github.com/pylabel-project/samples/blob/main/coco2voc.ipynb) <a href="https://colab.research.google.com/github/pylabel-project/samples/blob/main/coco2voc.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - [coco2yolov5.ipynb](https://github.com/pylabel-project/samples/blob/main/coco2yolov5.ipynb) <a href="https://colab.research.google.com/github/pylabel-project/samples/blob/main/coco2yolov5.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - [voc2coco.ipynb](https://github.com/pylabel-project/samples/blob/main/voc2coco.ipynb) <a href="https://colab.research.google.com/github/pylabel-project/samples/blob/main/voc2coco.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -21,4 +21,3 @@ PyLabel can help you use other tools that take bounding box annotations as an in
 [Albumentations](https://albumentations.ai/) is a popular open-source library for creating additional, augmented images as well as the annotations for those images.
 
 - [**azure_custom_vision.ipynb**](https://github.com/pylabel-project/samples/blob/main/pylabel2azure_custom_vision.ipynb) <a href="https://github.com/pylabel-project/samples/blob/main/pylabel2azure_custom_vision.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br>Using PyLabel you can import existing labels in COCO, YOLOv5, or VOC format and then upload the dataset to Azure Custom Vision.
-
